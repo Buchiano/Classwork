@@ -1,0 +1,79 @@
+.One{
+background: url('images/Homepage.png');
+height: 1024px;
+width: 1440px;
+background-size: cover;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+
+
+}
+.content{
+    width: 589px;
+    height: 883px;
+    padding: 94px, 122px, 95px, 121px;
+    margin-top: 70px;
+    margin-left: 23px;
+    border-radius: 8px;
+    background: #ffffff61;
+}
+.form1{
+    width: 346px;
+    height: 694px;
+    padding-top: 50px;
+    padding-left: 121px;
+}
+input{
+    width: 345px;
+    height: 48px;
+    top: 69px;
+    left: 1px;
+    border-radius: 8px;
+    border: 1px;
+    
+
+
+}
+button{
+    width: 345px;
+    height: 48px;
+    border-radius: 8px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.image1{
+    height: 15px;
+    width: 15px;
+    padding-top: 2px;
+    padding-left: 5px;
+}
+
+.input1{
+padding-right: 15px;
+padding-left: 5px;
+border-radius: 5px;
+padding-top: 5px; 
+padding-bottom: 5px; 
+margin-bottom: 10px; 
+margin-top: 5px; 
+}
+.container{
+margin-bottom: 5px;
+margin-top: 10px; 
+}
+.formbutton{
+padding-left: 60px;
+padding-right: 70px;
+border-radius: 5px;
+padding-top: 5px;
+padding-bottom: 5px;
+background-color: #6dad1e;
+}
+.button{
+padding-left: 15px;
+padding-right: 38px;
+border-radius: 5px;
+padding-bottom: 5px;
+background-color: #efffef;
+}    

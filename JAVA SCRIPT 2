@@ -1,0 +1,63 @@
+// Array;
+let x=('Buchi','Chika.'34 );
+// console.log (x.length) ;
+let solu=x.indexof(34);
+console.log(solu);
+let solu=x.join(',');
+console.log(solu);
+if condition  if statement;
+let x=34;
+if(x=34)
+// console.log('i am happy');
+// }
+
+if (condition1) {
+ // code to be executed if condition1 is true
+
+} else if(condition2) {
+//code to be executed if condition2 is true
+}else
+// code to be executed if none of the conditions are true
+ let Buchi_star=10;
+ if Buchi_star<30)
+ console.log(i'am $ (Buchi_star) year old);
+}else if(condition2
+else (
+condition)
+console.log('i am above $ (Buchi_star)year old');
+}else(
+ condition.log('i am a handsome man so you can not know my age');
+
+)
+SWITCH statement:Example or syntax of switch statement are:
+switch(expression) {
+ case value1:
+ // code to be executed if expression matches value1 break;
+ case value2:
+ //code to be executed if expression matches value2 break;
+ // additional cases...
+ default:
+ // code to be executed if none of the cases match
+ let grade='C';
+ switch (grade )    
+}case 'A';
+console.log('you have A grade'); break;
+case 'B';
+console.log('you have B grade');break;
+case "C""
+
+
+
+
+
+   
+
+
+
+
+   
+
+    
+
+  
+
